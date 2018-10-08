@@ -1,7 +1,7 @@
 ## Try it
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo) <br>
-[https://my-json-server.typicode.com/7900ms/demo](https://my-json-server.typicode.com/7900ms/demo)
+[https://my-json-server.typicode.com/7900ms/demo](https://my-json-server.typicode.com/7900ms/demo) ✓
 
 ## Use your own data
 
