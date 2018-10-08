@@ -8,15 +8,15 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "weatherContainer": {
+  "dataWeatherContainer": {
     "weather": "good"
+  },
+  "dataRobotContainer": {
+    "object": "survivor",
+    "angle": "40"
   },
   "profile": {
     "name": "typicode",
-    "hobby": "football",
-    "data": {
-      "object": "survivor",
-      "angle": "40"
-    }
+    "hobby": "football"
   }
 }
