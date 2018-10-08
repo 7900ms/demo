@@ -11,7 +11,9 @@
   "profile": {
     "name": "typicode",
     "hobby": "football",
-    "object": "survivor",
-    "angle": "40"
+    "data": {
+      "object": "survivor",
+      "angle": "40"
+    }
   }
 }
