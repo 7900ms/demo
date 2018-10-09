@@ -12,8 +12,12 @@
     "weather": "good"
   },
   "dataRobotContainer": {
-    "object": "survivor",
-    "angle": "40"
+    "speed": "0.2",
+    "angdeg": "40",
+    "color": "red",
+    "mode": "auto",
+    "x": "0",
+    "y": "0"
   },
   "profile": {
     "name": "typicode",
